@@ -10,7 +10,7 @@ export const state = {
     shadowBlur: 120,
     shadowOffsetX: 1,
     shadowOffsetY: 1,
-    watermark: "@梦爱吃鱼",
+    watermark: "@李小白",
     textSize: 200,
     squareSize: 300,
     text: '李小白',
